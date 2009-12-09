@@ -1,0 +1,9 @@
+@charset: 'utf-8';
+
+body {
+  font-family: helvetica, Times;
+  background-color: #DCDCDC;
+  border-top: 2px solid;
+  margin: 3em;
+}
+

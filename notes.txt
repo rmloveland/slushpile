@@ -1,0 +1,42 @@
+write faq
+write motd sub
+write noscript sub
+templating system?
+
+*
+
+WHAT CAN YOU DO HERE?
+add text.
+read text.
+write text on text.
+link text.
+hypertext.
+
+in short, fun with text.
+
+fun with text
+texty fun time
+web == text
+because your text is so, like, hyper
+
+*
+
+upon seeing the library,
+some might call it a blog, so it is.
+some see a magazine-like creature, and so it is.
+others see text.
+
+if not for text, there would be no library.
+
+these people were here:
+
+rml
+wil
+
+* List of Links
+
+library of fools
+slushpile
+submit
+forum
+faq
